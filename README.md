@@ -4,7 +4,7 @@ Under construction! Not ready for use yet! Currently experimenting and planning!
 
 Developed by Pratap Pandey
 
-## Examples of How To Use (Buggy Alpha Version)
+## Examples of How To Use
 
 Creating A Server
 
